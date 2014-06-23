@@ -4,8 +4,8 @@ save-state
 Text adventure game with git version control of state as a central mechanic
 
 
-Settings
-========
+setting
+=======
 
 To make the git analogy work, the setting should be computer based
 
